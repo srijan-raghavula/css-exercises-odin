@@ -1,0 +1,22 @@
+.odd {
+    background-color: rgb(232, 70, 70);
+    font-family: Verdana, 'DejaVu sans', sans-serif;
+}
+
+#e1 {
+    color: #1c2cd9;
+    font-size: 36px;
+    font-family: Tahoma;
+}
+
+#e2 {
+    font-size: 24px;
+    font-weight: bold;
+    background-color: hsl(131, 77%, 61%);
+    font-family: Tahoma;
+}
+
+
+.third {
+    font-size: 24px;
+}
